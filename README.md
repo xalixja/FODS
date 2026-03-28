@@ -4,7 +4,7 @@
 This repository contains the project "Understanding and Detecting Malicious Prompts Using Embeddings, Clustering, and Classification", developed for the Fundamentals of Data Science course. The main goal of this project is to analyze, cluster, and classify malicious prompts directed at Large Language Models (LLMs). It also explores how adversarial attacks impact the effectiveness of detection mechanisms.
 
 ## Author
-* Alicja Borek
+Alicja Borek
 
 ## Dataset
 The project utilizes a dataset of Polish language prompts containing various categories of intents, including:
